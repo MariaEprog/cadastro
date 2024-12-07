@@ -377,7 +377,7 @@ const Form: React.FC = () => {
               </FormGroup>
             </FormControl>
           </fieldset>
-          <Button type="submit" variant="contained" color="primary">
+          <Button type="submit" variant="contained" sx={{ backgroundColor: '#ff1495'}}>
             Enviar
           </Button>
         </FormGroup>
